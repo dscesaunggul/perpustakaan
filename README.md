@@ -4,7 +4,7 @@ Repository ini dibuat sebagai jembatan komunikasi antara anggota dsc untuk memba
 dihadapi ketika teman teman dalam membuat aplikasi. 
 
 
-# Tujuan :
+# Tujuan
 
 1. Berbagi pengetahuan tech antara anggota dsc.
 2. Berbagi metode metode best practice dalam pemrograman.
